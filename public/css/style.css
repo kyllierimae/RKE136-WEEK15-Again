@@ -140,3 +140,8 @@ footer ul li:hover, footer ul li a:hover {
 
 
 }
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
